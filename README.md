@@ -24,8 +24,12 @@ This is an implementation of Autobahn framework for interfacing Couchbase throug
       <script src="frontend.js"></script>
 
   <u>Javascript file</u>
+
+  example 
   
   frontend.js
+  
+
   
   <code>
   
