@@ -67,6 +67,30 @@ This is an implementation of Autobahn framework for interfacing Couchbase throug
 
 <b>API List</b>
 
+<b>Database</b>
+- CreateDb
+- DeleteDb
+- ListDb
 
+<b>Documents</b>
+- listDoc
+- openDocJson
+- openDocRaw
+- openMultiDocJson
+- openMultiDocRaw
+- addDoc
+- addMultiDoc
+- appendDoc
+- arependDoc
+- saveDoc
+- saveMultiDoc
+- saveString
+- deleteDoc
+- deletMultiDoc
+- 
+
+<b>Util</b>
+- replaceKey
+- 
 
 
