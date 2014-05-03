@@ -6,24 +6,24 @@ Websocket Server -> Couchbase | Python % Autobahn
 
 This is an implementation of Autobahn framework for interfacing Couchbase throught websocket.
 
-Server side : 
+<b>Server side</b> : 
 
 ./python -c /yourinstallationpath/server.py
 
 ./python -c /yourinstallationpath/client.py -c rpc.couchbase.backend.Component
 
-Client side : 
+<b>Client side</b> : 
 
-  Html/Javascript client
+  <b>Html/Javascript client</b>
   
-  Html source
+  <u>Html source</u>
 
   must include : 
   
       <script src="https://autobahn.s3.amazonaws.com/autobahnjs/latest/autobahn.min.jgz"></script>
       <script src="frontend.js"></script>
 
-  Javascript file
+  <u>Javascript file</u>
   
   frontend.js
   
