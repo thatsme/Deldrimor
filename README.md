@@ -1,4 +1,4 @@
 Deldrimor
 =========
 
-Websocket Server -> Couchbase | Python % Autobhan
+Websocket Server -> Couchbase | Python % Autobahn
